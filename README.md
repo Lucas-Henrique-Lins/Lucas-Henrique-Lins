@@ -40,7 +40,3 @@
 </div>
 
 ##
-<h3 align="left">   Repos :</h3>
-
- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Henrique-Lins&repo=PhysicalStore-Completa&theme=holi)]([https://github.com/digitalinnovationone/roadmaps](https://github.com/Lucas-Henrique-Lins/PhysicalStore-Completa))
-
